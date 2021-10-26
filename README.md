@@ -1,4 +1,4 @@
-# Terraform on AWS with SRE & IaC DevOps | Real-World 20 Demos
+# Terraform on AWS with SRE & IaC DevOps | 20 Demos
 
 ## Course Modules
 01. Infrastructure as Code (IaC)
